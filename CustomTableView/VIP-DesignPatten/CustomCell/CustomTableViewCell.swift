@@ -3,7 +3,7 @@
 //  CustomTableView
 //
 //  Created by Amsaraj Mariappan on 21/7/2562 BE.
-//  Copyright © 2562 CIMBTHAI. All rights reserved.
+//  Copyright © 2562 Amsaraj. All rights reserved.
 //
 
 import UIKit

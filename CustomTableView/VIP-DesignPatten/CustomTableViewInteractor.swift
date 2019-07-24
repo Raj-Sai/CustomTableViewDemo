@@ -2,8 +2,8 @@
 //  CustomTableViewInteractor.swift
 //  CustomTableView
 //
-//  Created by RajSai on 21/7/2562 BE.
-//  Copyright © RajSai. All rights reserved.
+//  Created by Amsaraj Mariappan on 21/7/2562 BE.
+//  Copyright © Amsaraj. All rights reserved.
 //
 
 import UIKit

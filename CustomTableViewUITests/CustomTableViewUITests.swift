@@ -2,8 +2,8 @@
 //  CustomTableViewUITests.swift
 //  CustomTableViewUITests
 //
-//  Created by RajSai on 21/7/2562 BE.
-//  Copyright © RajSai. All rights reserved.
+//  Created by Amsaraj Mariyappan on 21/7/2562 BE.
+//  Copyright © Amsaraj. All rights reserved.
 //
 
 import XCTest
